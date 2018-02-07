@@ -1,11 +1,21 @@
 # CÁC CHẾ ĐỘ KẾT NỐI MẠNG TRÊN VMWARE
 
+## Mục lục
+
+[Chế độ Bridge](#ChedoBridge)
+
+[Chế độ Host-only](#ChedoHost-only)
+
+[Chế độ NAT](#ChedoNAT)
+
 - Có ba chế độ kết nối mạng trên VMWARE:
   <ul>
   <li> Chế độ Bridge</li>
   <li> Chế độ Host-only</li>
   <li> Chế độ NAT( Network Address Translation )</li>
   </ul>
+
+<a name="ChedoBridge"></a>
 
 ## Chế độ Bridge
 
@@ -14,6 +24,8 @@
 - Ở chế độ này, card mạng trên máy ảo được gán vào VMnet0. VMner0 liên kết trực tiếp với card mạng vật lý trên máy thật. Khi đó, máy ảo sẽ kết nối Internet qua card mạng vật lý và có chung lớp mạng với card mạng vật lý.
 
 - Card Bridge trên máy ảo chỉ có thể giao tiếp với card mạng thật trên máy thật và có thể giao tiếp với mạng mà máy tính vật lý đang kết nối.
+
+<a name="ChedoHostonly"></a>
 
 ## Chế độ Host-only
 
@@ -25,6 +37,8 @@
 của VMnet tương ứng.
 
 - Ở chế độ này, các máy ảo không có kết nối vào mạng vật lý bên ngoài thông qua máy thật, có nghĩa là mạng VMnet Host-only nằm hoàn toàn trong máy chủ và hoàn toàn tách biệt với mạng vật lý của máy chủ.
+
+<a name="ChedoNAT"></a>
 
 ## Chế độ NAT
  

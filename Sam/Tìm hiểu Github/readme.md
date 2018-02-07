@@ -1,6 +1,6 @@
 # Một số tìm hiểu về Github
 
-[Khái niệm về Git và Github](./How%20to%20use%20Github.md#KhainiemveGitvaGithub)
+[I. Khái niệm về Git và Github](./How%20to%20use%20Github.md#KhainiemveGitvaGithub)
 
 [II. Các bước phải làm để sử dụng GitHub](./How%20to%20use%20Github.md#CacbuocphailamdesudungGitHub)
 
