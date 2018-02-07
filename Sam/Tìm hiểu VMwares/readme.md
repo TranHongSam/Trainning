@@ -15,9 +15,9 @@
 
 ## Các chế độ kết nối mạng trong VMware
 
-[Chế độ Bridge](./Cac%20che%20do%20ket%20noi%20mang%20trong%20VMware.md#ChedoBridge)
+[Chế độ Bridge](./Các%20chế%20độ%20kết%20nối%20mạng%20trong%20VMware.md#ChedoBridge)
 
-[Chế độ Host-only](./Cac%20che%20do%20ket%20noi%20mang%20trong%20VMware.md#ChedoHost-only)
+[Chế độ Host-only](./Các%20chế%20độ%20kết%20nối%20mạng%20trong%20VMware.md#ChedoHost-only)
 
-[Chế độ NAT](./Cac%20che%20do%20ket%20noi%20mang%20trong%20VMware.md#ChedoNAT)
+[Chế độ NAT](./Các%20chế%20độ%20kết%20nối%20mạng%20trong%20VMware.md#ChedoNAT)
 
