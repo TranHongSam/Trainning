@@ -50,5 +50,5 @@ của VMnet tương ứng.
 
 - Card NAT không thể giao tiếp với mạng vật lý mà máy thật đang kết nối. Tuy nhiên, cơ chế NAT cho phép dịch địa chỉ IP của máy ảo ra địa chỉ IP của máy thật để máy ảo có thể liên lạc với mạng vật lý bên ngoài.
 
-  - hello
+  
    
